@@ -66,7 +66,7 @@ poetry run get-papers-list "cancer"
 ### **2. Save Output to a CSV File**
 To save the output to a CSV file:
 ```bash
-poetry run get-papers-list "AI in medicine" -m 20 -f results.csv
+poetry run get-papers-list "AI in medicine" -f results.csv
 ```
 
 ### **3. Enable Debug Mode**
